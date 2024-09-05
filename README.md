@@ -11,7 +11,8 @@
 # 👔 Fake_person_generator  
 - Generate Fake Person Photo, email, name, adress
 
-  ![image](https://github.com/user-attachments/assets/3b262119-39f6-4b57-9336-b1196ecd7a38)
+  ![image](https://github.com/user-attachments/assets/08f0eabb-a604-41ad-885a-c5352b11161e)
+
 
 
 # 🛡️ URL Shortener
