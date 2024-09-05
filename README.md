@@ -5,7 +5,8 @@
 # 🩻 Background_remover   
 - Remove Background from Photos
 
-  ![image](https://github.com/user-attachments/assets/2df8e609-6483-4881-b5a1-900dc0f020c0)
+  ![image](https://github.com/user-attachments/assets/a0627f6e-ece1-45ec-bf2e-c38553fbdf50)
+
 
 
 # 👔 Fake_person_generator  
